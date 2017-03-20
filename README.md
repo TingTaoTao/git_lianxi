@@ -9,18 +9,3 @@
 
 
 ##TODO
-1.列表加入短视频，如微信<br>
-
-
-## 贡献者
-16/02/26<br>
-非常感谢[hnclca](https://github.com/hnclca)增加图片点击效果，修改单张图片样式
-
-
-
-
-
-##效果图
-![image](https://github.com/Naoki2015/CircleDemo/blob/master/CircleDemo/imgs/1.png)
-![image](https://github.com/Naoki2015/CircleDemo/blob/master/CircleDemo/imgs/2.png)
-![image](https://github.com/Naoki2015/CircleDemo/blob/master/CircleDemo/imgs/3.png)
